@@ -44,6 +44,8 @@
 /* USB Vendor/Product IDs */
 #define RTW_USB_VENDOR_ID_REALTEK		0x0BDA
 #define RTW_USB_VENDOR_ID_NETGEAR		0x0846
+#define RTW_USB_VENDOR_ID_ASUS			0x0B05
+#define RTW_USB_VENDOR_ID_DLINK		0x2001
 #define RTW_USB_VENDOR_ID_EDIMAX		0x7392
 
 /* Register definitions for USB */
